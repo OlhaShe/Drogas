@@ -1,0 +1,25 @@
+#MainPage
+
+#LoginPopup
+OpenLogin.Page.href = xpath ("//a[@href='/ru/login' and @title='??? ???????']")
+B2C_NoLoyalty.Email.input = xpath ("//*[@name='j_username' and @id='private-customer-account-login-username']")
+B2C_NoLoyalty.Password.input = xpath ("//*[@name='j_password' and @id='private-customer-account-login-password']")
+
+
+B2B.Email.input = xpath ("//*[@name='j_username' and @id='business-customer-account-login-email']")
+B2B.Password.input = xpath ("//*[@name='j_password' and @id='business-customer-account-login-password']")
+
+
+#General
+General.Button.Zapis=xpath(".//p//*[@href='http://qalight.com.ua/zapisatsya-na-kurs/']")
+
+#CONTACTS
+Contacts.Name.input=xpath(".//*[@name='your-name']")
+Contacts.Email.input=xpath(".//*[@name='your-email']")
+Contacts.Phone.input=xpath(".//form//p[3]//input")
+Contacts.FAQ.input=xpath(".//*[@name='comment']")
+Contacts.Capcha.input=xpath(".//form//p[4]//input[@name='captcha-301']")
+Contacts.Send.button=xpath(".//div[@class='one_third last']//form//*[@type='submit']")
+Contacts.Clear.button=xpath(".//div[@class='one_third last']//form//*[@type='reset']")
+
+Contacts.Button.Zapis=xpath(".//header//a[@href='http://qalight.com.ua/zapisatsya-na-kurs/']")

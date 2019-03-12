@@ -1,0 +1,204 @@
+2019-10-03 16:28:18   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 16:28:20   INFO [libs.ActionsWithElements] : The element was clicked
+2019-10-03 16:28:21   INFO [libs.ActionsWithElements] : The element was clicked
+2019-10-03 16:28:21   INFO [libs.ActionsWithElements] : The element was clicked
+2019-10-03 16:28:21  ERROR [libs.ActionsWithElements] : The element wasn't clicked
+2019-10-03 16:28:31  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath:     //span[@itemprop='name' and contains (text(), 'Мой профиль')]
+' -- IS NOT displayed
+2019-10-03 16:31:08   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 16:31:10   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (eb2fe89e4505621b597594ae23bf28d7)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] -- was clicked
+2019-10-03 16:31:10   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (eb2fe89e4505621b597594ae23bf28d7)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 16:31:11  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (eb2fe89e4505621b597594ae23bf28d7)] -> id: private-customer-account-login-password] -- WASN'T clicked
+2019-10-03 16:31:11  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (eb2fe89e4505621b597594ae23bf28d7)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] -- WASN'T clicked
+2019-10-03 16:31:21  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath:     //span[@itemprop='name' and contains (text(), 'Мой профиль')]
+' -- IS NOT displayed
+2019-10-03 16:46:55   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 16:46:56   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (ad58aa7a0743b63ac4eeac789ab0b92b)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 16:46:56   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (ad58aa7a0743b63ac4eeac789ab0b92b)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 16:46:56   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (ad58aa7a0743b63ac4eeac789ab0b92b)] -> id: private-customer-account-login-password] -- was clicked
+2019-10-03 16:46:57   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (ad58aa7a0743b63ac4eeac789ab0b92b)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] was clicked
+2019-10-03 16:47:07  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath:     //span[@itemprop='name' and contains (text(), 'Мой профиль')]
+' -- IS NOT displayed
+2019-10-03 16:52:10   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 16:52:12   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (3ad87846eee021ba3ad0baf6569ba47f)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 16:52:12   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (3ad87846eee021ba3ad0baf6569ba47f)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 16:52:12   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (3ad87846eee021ba3ad0baf6569ba47f)] -> id: private-customer-account-login-password] -- was clicked
+2019-10-03 16:52:19   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]' was clicked
+2019-10-03 16:52:19   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (3ad87846eee021ba3ad0baf6569ba47f)] -> xpath:     //span[@itemprop='name' and contains (text(), 'Мой профиль')]
+] --is displayed
+2019-10-03 17:00:55   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:00:59   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (df109d573bfa1cd81f401c2e8370f48d)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:00:59   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (df109d573bfa1cd81f401c2e8370f48d)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:01:00  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (df109d573bfa1cd81f401c2e8370f48d)] -> id: private-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:01:00  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (df109d573bfa1cd81f401c2e8370f48d)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] WASN'T CLICKED
+2019-10-03 17:01:10  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath:     //span[@itemprop='name' and contains (text(), 'Мой профиль')]
+' -- IS NOT displayed
+2019-10-03 17:02:37   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:02:38   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (2d5a737595ae3d5462497d1e25c9f543)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:02:38   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (2d5a737595ae3d5462497d1e25c9f543)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:02:39   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (2d5a737595ae3d5462497d1e25c9f543)] -> id: private-customer-account-login-password] -- was clicked
+2019-10-03 17:02:39   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (2d5a737595ae3d5462497d1e25c9f543)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] was clicked
+2019-10-03 17:02:49  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath:     //span[@itemprop='name' and contains (text(), 'Мой профиль')]
+' -- IS NOT displayed
+2019-10-03 17:06:15   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:06:17   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (4348100a9dc18ef7c4efcce160881e76)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:06:18   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (4348100a9dc18ef7c4efcce160881e76)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:06:18  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (4348100a9dc18ef7c4efcce160881e76)] -> id: private-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:06:18  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (4348100a9dc18ef7c4efcce160881e76)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] WASN'T CLICKED
+2019-10-03 17:06:28  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:11:27   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:11:28   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (bacb5b2b75ac21ad63129ccccb062033)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:11:28   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (bacb5b2b75ac21ad63129ccccb062033)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:11:29   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (bacb5b2b75ac21ad63129ccccb062033)] -> id: private-customer-account-login-password] -- was clicked
+2019-10-03 17:11:35   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]' was clicked
+2019-10-03 17:11:35   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (bacb5b2b75ac21ad63129ccccb062033)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
+2019-10-03 17:35:47   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:35:51   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (e2d684f68c7ad0d7002abff81fd635a1)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:36:01  ERROR [libs.ActionsWithElements] : The element --Proxy element for: DefaultElementLocator 'By.id: business-customer-account-login-emai' -- WASN'T clicked
+2019-10-03 17:36:01  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (e2d684f68c7ad0d7002abff81fd635a1)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:36:02  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (e2d684f68c7ad0d7002abff81fd635a1)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:36:12  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:36:17   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:36:20   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (6311941119d636df1ee76e4f77fed30f)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:36:21   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (6311941119d636df1ee76e4f77fed30f)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:36:21   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (6311941119d636df1ee76e4f77fed30f)] -> id: private-customer-account-login-password] -- was clicked
+2019-10-03 17:36:28   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]' was clicked
+2019-10-03 17:36:28   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (6311941119d636df1ee76e4f77fed30f)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
+2019-10-03 17:37:03   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:37:07   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (e2c8e0cab3b6ac0abf181851cf73a5d1)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:37:17  ERROR [libs.ActionsWithElements] : The element --Proxy element for: DefaultElementLocator 'By.id: business-customer-account-login-emai' -- WASN'T clicked
+2019-10-03 17:37:17  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (e2c8e0cab3b6ac0abf181851cf73a5d1)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:37:18  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (e2c8e0cab3b6ac0abf181851cf73a5d1)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:37:28  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:37:43   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:37:46   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (eb3605c2d41040a0754ada4096372cca)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:37:56  ERROR [libs.ActionsWithElements] : The element --Proxy element for: DefaultElementLocator 'By.id: business-customer-account-login-emai' -- WASN'T clicked
+2019-10-03 17:37:57  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (eb3605c2d41040a0754ada4096372cca)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:37:57  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (eb3605c2d41040a0754ada4096372cca)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:38:07  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:38:33   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:38:37   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (7fbf55a980c38affce63be5ebfbdec0c)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:38:57  ERROR [libs.ActionsWithElements] : The element --Proxy element for: DefaultElementLocator 'By.id: business-customer-account-login-emai' -- WASN'T clicked
+2019-10-03 17:38:58  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (7fbf55a980c38affce63be5ebfbdec0c)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:38:58  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (7fbf55a980c38affce63be5ebfbdec0c)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:39:18  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:42:38   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:42:40   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (286fe02bd6d5cae5f05aa20d4f049cad)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:42:40  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (286fe02bd6d5cae5f05aa20d4f049cad)] -> id: business-customer-account-login-email] -- WASN'T clicked
+2019-10-03 17:42:40  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (286fe02bd6d5cae5f05aa20d4f049cad)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:42:41  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (286fe02bd6d5cae5f05aa20d4f049cad)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:43:01  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:44:41   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:44:43   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (0380ce87bed7a603d7699b689fd3b6ce)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:44:43  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0380ce87bed7a603d7699b689fd3b6ce)] -> id: business-customer-account-login-email] -- WASN'T clicked
+2019-10-03 17:44:44  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0380ce87bed7a603d7699b689fd3b6ce)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:44:44  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (0380ce87bed7a603d7699b689fd3b6ce)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:45:04  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:47:04   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:47:06   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (c6d8968d02eb57c584d365788b4b1428)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:47:06  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (c6d8968d02eb57c584d365788b4b1428)] -> id: business-customer-account-login-email] -- WASN'T clicked
+2019-10-03 17:47:06  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (c6d8968d02eb57c584d365788b4b1428)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:47:06  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (c6d8968d02eb57c584d365788b4b1428)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:47:26  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:47:51   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:47:53   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (0307d34cb142d7ae5cf95fdf3f9773f2)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:47:53   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0307d34cb142d7ae5cf95fdf3f9773f2)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:47:53  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0307d34cb142d7ae5cf95fdf3f9773f2)] -> id: private-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:47:53  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (0307d34cb142d7ae5cf95fdf3f9773f2)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] WASN'T CLICKED
+2019-10-03 17:48:13  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:51:18   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:51:21   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (5eb40db69f4c01fad374d2abe96b2c2a)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:51:22   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (5eb40db69f4c01fad374d2abe96b2c2a)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:51:22  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (5eb40db69f4c01fad374d2abe96b2c2a)] -> id: private-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:51:22  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (5eb40db69f4c01fad374d2abe96b2c2a)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] WASN'T CLICKED
+2019-10-03 17:51:42  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:55:03   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:55:04   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (8031e75e4ee8770c70ff756016079ef2)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:55:05   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (8031e75e4ee8770c70ff756016079ef2)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 17:55:05   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (8031e75e4ee8770c70ff756016079ef2)] -> id: private-customer-account-login-password] -- was clicked
+2019-10-03 17:55:05  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (8031e75e4ee8770c70ff756016079ef2)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] WASN'T CLICKED
+2019-10-03 17:55:25  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 17:56:03   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 17:56:07   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (e4e72bd5b4959dc228c010ac88202a6b)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 17:56:08  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (e4e72bd5b4959dc228c010ac88202a6b)] -> id: business-customer-account-login-email] -- WASN'T clicked
+2019-10-03 17:56:08  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (e4e72bd5b4959dc228c010ac88202a6b)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 17:56:08  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (e4e72bd5b4959dc228c010ac88202a6b)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 17:56:28  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 21:14:08   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 21:14:11   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (9182b7628953f1a82d39226410ce38c8)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 21:14:11   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (9182b7628953f1a82d39226410ce38c8)] -> id: business-customer-account-login-email] -- was clicked
+2019-10-03 21:14:11  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (9182b7628953f1a82d39226410ce38c8)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 21:14:12  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (9182b7628953f1a82d39226410ce38c8)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 21:14:32  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 21:14:38   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 21:14:39   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (9e1648352bbfacdf212621859b4208f6)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 21:14:40   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (9e1648352bbfacdf212621859b4208f6)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 21:14:40  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (9e1648352bbfacdf212621859b4208f6)] -> id: private-customer-account-login-password] -- WASN'T clicked
+2019-10-03 21:14:41  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (9e1648352bbfacdf212621859b4208f6)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] WASN'T CLICKED
+2019-10-03 21:15:01  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 21:18:53   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 21:18:56   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (0bb58691fd9edae6bc673a1efa8aa9fe)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 21:18:56   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0bb58691fd9edae6bc673a1efa8aa9fe)] -> id: private-customer-account-login-username] -- was clicked
+2019-10-03 21:18:56  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0bb58691fd9edae6bc673a1efa8aa9fe)] -> id: private-customer-account-login-password] -- WASN'T clicked
+2019-10-03 21:18:57  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (0bb58691fd9edae6bc673a1efa8aa9fe)] -> xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]] WASN'T CLICKED
+2019-10-03 21:19:38   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 21:19:40   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (aa78b756febea44cb83588711eee5e2d)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 21:19:41  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (aa78b756febea44cb83588711eee5e2d)] -> id: business-customer-account-login-email] -- WASN'T clicked
+2019-10-03 21:19:41  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (aa78b756febea44cb83588711eee5e2d)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 21:19:41  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (aa78b756febea44cb83588711eee5e2d)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 21:20:01  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 21:24:33   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 21:24:34   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (1b62b982a67911b56f7ec8a24051ee3d)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 21:24:35  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (1b62b982a67911b56f7ec8a24051ee3d)] -> id: business-customer-account-login-email] -- WASN'T clicked
+2019-10-03 21:24:35  ERROR [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (1b62b982a67911b56f7ec8a24051ee3d)] -> id: business-customer-account-login-password] -- WASN'T clicked
+2019-10-03 21:24:35  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (1b62b982a67911b56f7ec8a24051ee3d)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 21:24:55  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-10-03 21:39:48   INFO [libs.ActionsWithElements] : The site has been opened
+2019-10-03 21:39:49   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (ecb253a77abbd2f856909a2918a84eae)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-10-03 21:39:50   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (ecb253a77abbd2f856909a2918a84eae)] -> id: business-customer-account-login-email] -- was clicked
+2019-10-03 21:39:50   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (ecb253a77abbd2f856909a2918a84eae)] -> id: business-customer-account-login-password] -- was clicked
+2019-10-03 21:39:50  ERROR [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (ecb253a77abbd2f856909a2918a84eae)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] WASN'T CLICKED
+2019-10-03 21:40:04  ERROR [libs.ActionsWithElements] : Element -- Proxy element for: DefaultElementLocator 'By.xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]' -- IS NOT displayed
+2019-11-03 22:50:30   INFO [libs.ActionsWithElements] : The site has been opened
+2019-11-03 22:50:33   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (c46f1ed09fcf66061c8ea0662edc1abb)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-11-03 22:50:33   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (c46f1ed09fcf66061c8ea0662edc1abb)] -> id: private-customer-account-login-username] -- was clicked
+2019-11-03 22:50:34   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (c46f1ed09fcf66061c8ea0662edc1abb)] -> id: private-customer-account-login-password] -- was clicked
+2019-11-03 22:50:42   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]' was clicked
+2019-11-03 22:50:42   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (c46f1ed09fcf66061c8ea0662edc1abb)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
+2019-11-03 22:51:04   INFO [libs.ActionsWithElements] : The site has been opened
+2019-11-03 22:51:06   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (849014723bb634eff01ceb11154c6cc2)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-11-03 22:51:07   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (849014723bb634eff01ceb11154c6cc2)] -> id: business-customer-account-login-email] -- was clicked
+2019-11-03 22:51:07   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (849014723bb634eff01ceb11154c6cc2)] -> id: business-customer-account-login-password] -- was clicked
+2019-11-03 22:51:08   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (849014723bb634eff01ceb11154c6cc2)] -> xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]] was clicked
+2019-11-03 22:55:04   INFO [libs.ActionsWithElements] : The site has been opened
+2019-11-03 22:55:05   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (97cc5fa5a80f99bad75e0d04cc7147a8)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-11-03 22:55:06   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (97cc5fa5a80f99bad75e0d04cc7147a8)] -> id: business-customer-account-login-email] -- was clicked
+2019-11-03 22:55:06   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (97cc5fa5a80f99bad75e0d04cc7147a8)] -> id: business-customer-account-login-password] -- was clicked
+2019-11-03 22:55:16   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]' was clicked
+2019-11-03 22:55:16   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (97cc5fa5a80f99bad75e0d04cc7147a8)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
+2019-11-03 23:04:49   INFO [libs.ActionsWithElements] : The site has been opened
+2019-11-03 23:04:52   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (7c7b216717489622bd091dd889b82302)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-11-03 23:04:52   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (7c7b216717489622bd091dd889b82302)] -> id: business-customer-account-login-email] -- was clicked
+2019-11-03 23:04:52   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (7c7b216717489622bd091dd889b82302)] -> id: business-customer-account-login-password] -- was clicked
+2019-11-03 23:05:01   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]' was clicked
+2019-11-03 23:05:02   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (7c7b216717489622bd091dd889b82302)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
+2019-11-03 23:05:08   INFO [libs.ActionsWithElements] : The site has been opened
+2019-11-03 23:05:10   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (9f8ba8e34881f94d39da11730015a3e6)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-11-03 23:05:10   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (9f8ba8e34881f94d39da11730015a3e6)] -> id: private-customer-account-login-username] -- was clicked
+2019-11-03 23:05:10   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (9f8ba8e34881f94d39da11730015a3e6)] -> id: private-customer-account-login-password] -- was clicked
+2019-11-03 23:05:19   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]' was clicked
+2019-11-03 23:05:19   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (9f8ba8e34881f94d39da11730015a3e6)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
+2019-12-03 19:24:58   INFO [libs.ActionsWithElements] : The site has been opened
+2019-12-03 19:25:00   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (d97ba44b9ac0dd287127d657eb3729fb)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-12-03 19:25:00   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (d97ba44b9ac0dd287127d657eb3729fb)] -> id: business-customer-account-login-email] -- was clicked
+2019-12-03 19:25:01   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (d97ba44b9ac0dd287127d657eb3729fb)] -> id: business-customer-account-login-password] -- was clicked
+2019-12-03 19:25:09   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='business_customer__btn' and contains (text(), 'Войти')]' was clicked
+2019-12-03 19:25:09   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (d97ba44b9ac0dd287127d657eb3729fb)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
+2019-12-03 19:25:46   INFO [libs.ActionsWithElements] : The site has been opened
+2019-12-03 19:26:00  ERROR [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //a[@href='/ru/login' and @title='Мой профиль']' WASN'T CLICKED
+2019-12-03 19:26:15   INFO [libs.ActionsWithElements] : The site has been opened
+2019-12-03 19:26:18   INFO [libs.ActionsWithElements] : The element [[ChromeDriver: chrome on XP (0a4b405005c40ce5e44bae54dee60bb6)] -> xpath: //a[@href='/ru/login' and @title='Мой профиль']] was clicked
+2019-12-03 19:26:19   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0a4b405005c40ce5e44bae54dee60bb6)] -> id: private-customer-account-login-username] -- was clicked
+2019-12-03 19:26:19   INFO [libs.ActionsWithElements] : The element --[[ChromeDriver: chrome on XP (0a4b405005c40ce5e44bae54dee60bb6)] -> id: private-customer-account-login-password] -- was clicked
+2019-12-03 19:26:27   INFO [libs.ActionsWithElements] : The element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='private_customer__btn' and contains (text(), 'Войти' )]' was clicked
+2019-12-03 19:26:27   INFO [libs.ActionsWithElements] : Element -- [[ChromeDriver: chrome on XP (0a4b405005c40ce5e44bae54dee60bb6)] -> xpath: //span[@itemprop='name' and contains (text(), 'Мой профиль')]] --is displayed
